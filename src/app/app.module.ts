@@ -6,8 +6,8 @@ import { AppComponent } from './app.component';
 import { TableTeamsComponent } from './components/table-teams/table-teams.component';
 import { ResultsTeamComponent } from './components/results-team/results-team.component';
 import { HeaderComponent } from './components/header/header.component';
-import { HttpClientModule } from '@angular/common/http';
 import { FootballService } from './services/football.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [

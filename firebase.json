@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/certification-angular-goal",
     "ignore": [
       "firebase.json",
       "**/.*",
